@@ -1,0 +1,5 @@
+#TODO : assert decoder_filters match number of outputs
+#TODO : assert output shape is defined on backbone
+#TODO : assert skip connections are divisible by anterior ones
+#TODO : test with different encoder backbones
+#TODO : test model with sample dataset
